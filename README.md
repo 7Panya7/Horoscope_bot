@@ -16,7 +16,9 @@
       - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/1280px-Spring_Framework_Logo_2018.svg.png" 
  alt="Spring"  height="15"/> **Cloud OpenFeign**
   
-  * Библиотеки: **Lombok**
+  * Библиотеки: 
+    - **Lombok**
+    - **Jsoup**
   * Внешнее API: [Mail Horoscope](https://horo.mail.ru/prediction/capricorn/today),[Telegram API](https://github.com/rubenlagus/TelegramBots/tree/master/telegrambots-spring-boot-starter)
   ## Как запустить
   1. Написать команду в консоли, находясь внутри проекта:
